@@ -1,0 +1,27 @@
+h1{
+    color:blue;
+}
+h2{
+    font-size: 69px;
+}
+
+img{
+    border-style:dotted;
+    border-radius: 20px;
+    border-width: 5px;
+}
+
+div.shipping{
+    color: gray;
+}
+div.gpu-box{
+    border-style: solid;
+    border-width: 2px;
+    width: fit-content;
+}
+div#recommended-listings{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.1em;
+}
